@@ -1,0 +1,57 @@
+10
+2
+a b
+b a
+4
+a b
+b c
+c d
+d b
+3
+a b c
+b c
+c a
+5
+a b
+b c
+c a
+d e
+e d
+6
+a b
+b c
+c a
+d e
+e d
+f a
+4
+a b
+b c
+c d
+d b
+5
+a b
+b c
+c d
+d e
+e b
+6
+a b c d e
+b c d e
+c d e
+d e
+e f
+f a
+6
+a b
+b c
+c a d
+d e
+e f
+f d
+5
+a b c d
+b a c d
+c a b d
+d a b c
+e a
