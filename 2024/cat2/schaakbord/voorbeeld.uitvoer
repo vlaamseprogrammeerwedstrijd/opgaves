@@ -1,0 +1,83 @@
+1 c3 c5 d2
+2 f5 f7 g4 g8 i4 i8 j5 j7
+3 r19 r21 s18 s22 u18 u22 v19 v21
+4 foute start
+5 bordfout
+6 b3 c2
+7 a4 c4 d1 d3
+8 a2 a4 b1 d1
+9 b3 c2
+10 c2 d3
+11 foute start
+12 foute start
+13 foute start
+14 b3 c2
+15 a4 c4 d1 d3
+16 w24 x23
+17 b3 c2
+18 f2 g3
+19 b6 c7
+20 f7 g6
+21 b3 c2
+22 h2 i3
+23 b8 c9
+24 h9 i8
+25 b3 c2
+26 w2 x3
+27 b23 c24
+28 w24 x23
+29 b3 c2
+30 b2 c3
+31 b2 c3
+32 b3 c2
+33 b3 c2
+34 d2 e3
+35 b4 c5
+36 d5 e4
+37 b3 c2
+38 w2 x3
+39 b23 c24
+40 w24 x23
+41 bordfout
+42 bordfout
+43 bordfout
+44 bordfout
+45 bordfout
+46 foute start
+47 foute start
+48 foute start
+49 foute start
+50 foute start
+51 foute start
+52 foute start
+53 foute start
+54 b8 b12 c9 c11
+55 a9 a13 c9 c13 d10 d12
+56 a11 a13 b10 b14 d10 d14 e11 e13
+57 w23 w25 x22
+58 v22 v24 w21 w25 y21 y25
+59 u21 u23 v20 v24 x20 x24 y21 y23
+60 e4 e6 f3 f7 h3 h7 i4 i6
+61 f5 f7 g4 g8 i4 i8 j5 j7
+62 c2 c4 d1 d5 f1 f5 g2 g4
+63 m16 m18 n15 n19 p15 p19 q16 q18
+64 n17 n19 o16 o20 q16 q20 r17 r19
+65 o18 o20 p17 p21 r17 r21 s18 s20
+66 a2 a4 b1 b5 d1 d5 e2 e4
+67 foute start
+68 b3 c2
+69 a4 c4 d1 d3
+70 a2 a4 b1 d1
+71 b3 c2
+72 b3 c2
+73 a4 c4 d1 d3
+74 a2 a4 b1 b5 d1 d5 e2 e4
+75 w24 x23
+76 a3 c3 d2
+77 e2 f3 h3
+78 b4 c1 c3
+79 f1 f3 g4
+80 a3 c3 d2
+81 v2 w3 y3
+82 b4 c1 c3
+83 w1 w3 x4
